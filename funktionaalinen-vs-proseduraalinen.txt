@@ -1,8 +1,9 @@
 funktionaalisuuden etuja - vs OOP
 
 1.
-- java
+- javassa enemmän olioiden luontia ennen metodien kutsua useimmiten, ellei Factory design patternia
 
+2.
 - tilattomat metodit
 - kompaktimpi koodi
 - rinnakkaisohjelmointi helpompaa
