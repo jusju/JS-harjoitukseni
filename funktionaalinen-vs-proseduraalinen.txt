@@ -1,2 +1,8 @@
+funktionaalisuuden etuja - vs OOP
+
+1.
+- java
+
 - tilattomat metodit
-- 
+- kompaktimpi koodi
+- rinnakkaisohjelmointi helpompaa
