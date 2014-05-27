@@ -2,8 +2,19 @@ funktionaalisuuden etuja - vs OOP
 
 1. Miten Javassa ja JavaScriptissä eroaa funktioiden/metodien käyttö
 - javassa enemmän olioiden luontia ennen metodien kutsua useimmiten, ellei Factory design patternia
+- verkosta on vaikea löytää hyvää javascriptiä - monille kakkoskieli
 
 2. Mitä vahvuuksia ja heikkouksia funktionaalisella paradigmalla on olio-ohjelmointiin verrattuna
 - tilattomat metodit
 - kompaktimpi koodi
 - rinnakkaisohjelmointi helpompaa
+
+haittoja
+- vaatii paljon aikaa opetella funktionaalisuus ja jotta koodi olisi korkealaatuista
+- suuri investointi aikaa, koska ihan erilainen paradigma
+- ioc johtaa vaikeaan debuggaamiseen
+- ei mätsää raudan kanssa
+- paljon hypeä
+- ei voi hyödyntää helposti montaa corea
+- aloittelijan funktionaalinen ohjelma
+
