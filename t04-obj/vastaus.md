@@ -79,4 +79,5 @@ This time, myString is "-0-".
 
 JavaScript does not have classes, but we can program as though it does.
 
+http://www.javascriptkit.com/javatutors/oopjs3.shtml
 
