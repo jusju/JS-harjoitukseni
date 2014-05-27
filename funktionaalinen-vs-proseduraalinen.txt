@@ -16,5 +16,5 @@ haittoja
 - ei mätsää raudan kanssa
 - paljon hypeä
 - ei voi hyödyntää helposti montaa corea
-- aloittelijan funktionaalinen ohjelma
+- aloittelijan funktionaalinen ohjelma todennäköisesti huono suorituskyvyltään
 
